@@ -21,4 +21,5 @@ Original Video Link: {Video Link}
 # Dependency
 
 **NickAPI**
-PLugin Link: https://www.spigotmc.org/resources/nickapi-advanced-nickapi-1-8-1-18-2.26013/
+
+Plugin Link: https://www.spigotmc.org/resources/nickapi-advanced-nickapi-1-8-1-18-2.26013/
